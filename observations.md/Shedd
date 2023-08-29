@@ -1,2 +1,11 @@
 # :robot: - Voltage Versus Current
 When I increased voltage more electrons were running over the circut. When I broke the circut the Amps stopped completely.
+$ 1 0.000005 75.37042125545614 67 5 43
+R 96 144 96 272 0 0 40 10 0 0 0.5
+R 448 160 448 256 0 0 40 5 0 0 0.5
+r 96 144 160 144 0 100
+r 432 160 384 160 0 100
+162 384 160 384 208 2 default-led 1 0 0 0.01
+162 160 144 160 192 2 default-led 1 0 0 0.01
+g 160 192 160 256 0
+g 384 208 384 240 0
